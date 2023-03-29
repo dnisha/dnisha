@@ -1,3 +1,6 @@
+Hi there 👋
+I'm Deepak Nishad
+
 # 💫 About Me:
 🔭 I’m currently working for a Fintech startup as Software Engineer Java , Build And Release.<br>🌱 I’m currently looking for open source contribution.<br>🤔I love shring my learnings and mentor junior and colleagues.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://www.linkedin.com/in/dnishad/<br>😄 Pronouns: He/His<br>⚡ Fun fact: I am a fitness freak.
 
